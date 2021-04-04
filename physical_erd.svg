@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="417px" preserveAspectRatio="none" style="width:2662px;height:417px;" version="1.1" viewBox="0 0 2662 417" width="2662px" zoomAndPan="magnify"><defs><filter height="300%" id="f1fahrm93r5fct" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[44e3be5e93100f87f3b6fc2e9bda0b10]
+class e01--><rect codeLine="7" fill="#FEFECE" filter="url(#f1fahrm93r5fct)" height="155.2109" id="e01" style="stroke:#A80036;stroke-width:1.5;" width="170" x="1255" y="248"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="41" x="1319.5" y="264.1387">Person</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1256" x2="1424" y1="271.9688" y2="271.9688"/><ellipse cx="1266" cy="282.9688" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="107" x="1275" y="286.1792">OUTID : TEXT «PK»</text><line style="stroke:#A80036;stroke-width:1.0;" x1="1256" x2="1424" y1="292.7734" y2="292.7734"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="85" x="1261" y="306.9839">Birth : INTEGER</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="122" x="1261" y="319.7886">SEXTYPENAME : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="85" x="1261" y="332.5933">Year : INTEGER</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="158" x="1261" y="345.3979">Region_index : SERIAL «FK»</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="122" x="1261" y="358.2026">REGTYPENAME : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="137" x="1261" y="371.0073">ClassProfileNAME : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="131" x="1261" y="383.812">ClassLangName : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="135" x="1261" y="396.6167">EO_index : SERIAL «FK»</text><!--MD5=[a7e3466bc31fc7f02d93123623092e97]
+class e02--><rect codeLine="20" fill="#FEFECE" filter="url(#f1fahrm93r5fct)" height="103.9922" id="e02" style="stroke:#A80036;stroke-width:1.5;" width="184" x="7" y="45.5"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="41" x="78.5" y="61.6387">Region</text><line style="stroke:#A80036;stroke-width:1.5;" x1="8" x2="190" y1="69.4688" y2="69.4688"/><ellipse cx="18" cy="80.4688" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="158" x="27" y="83.6792">Region_index : SERIAL «PK»</text><line style="stroke:#A80036;stroke-width:1.0;" x1="8" x2="190" y1="90.2734" y2="90.2734"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="95" x="13" y="104.4839">REGNAME : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="102" x="13" y="117.2886">AREANAME : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="93" x="13" y="130.0933">TERNAME : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="122" x="13" y="142.8979">TerTypeName : TEXT</text><!--MD5=[7d712c38379410506897aa674a718ccb]
+class e03--><rect codeLine="29" fill="#FEFECE" filter="url(#f1fahrm93r5fct)" height="129.6016" id="e03" style="stroke:#A80036;stroke-width:1.5;" width="161" x="226.5" y="32.5"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="17" x="298.5" y="48.6387">EO</text><line style="stroke:#A80036;stroke-width:1.5;" x1="227.5" x2="386.5" y1="56.4688" y2="56.4688"/><ellipse cx="237.5" cy="67.4688" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="135" x="246.5" y="70.6792">EO_index : SERIAL «PK»</text><line style="stroke:#A80036;stroke-width:1.0;" x1="227.5" x2="386.5" y1="77.2734" y2="77.2734"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="88" x="232.5" y="91.4839">EONAME : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="115" x="232.5" y="104.2886">EOTYPENAME : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="112" x="232.5" y="117.0933">EORegName : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="117" x="232.5" y="129.8979">EOAreaName : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="109" x="232.5" y="142.7026">EOTerName : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="92" x="232.5" y="155.5073">EOParent : TEXT</text><!--MD5=[7bebe7b0065ab6ae71148dc043c4371c]
+class e04--><rect codeLine="40" fill="#FEFECE" filter="url(#f1fahrm93r5fct)" height="180.8203" id="e04" style="stroke:#A80036;stroke-width:1.5;" width="166" x="423" y="7"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="21" x="495.5" y="23.1387">Ukr</text><line style="stroke:#A80036;stroke-width:1.5;" x1="424" x2="588" y1="30.9688" y2="30.9688"/><ellipse cx="434" cy="41.9688" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="127" x="443" y="45.1792">OUTID : TEXT «PK, FK»</text><ellipse cx="434" cy="54.7734" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="114" x="443" y="57.9839">UkrTest : TEXT «PK»</text><line style="stroke:#A80036;stroke-width:1.0;" x1="424" x2="588" y1="64.5781" y2="64.5781"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="119" x="429" y="78.7886">UkrTestStatus : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="154" x="429" y="91.5933">UkrBall100 : VARCHAR(255)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="147" x="429" y="104.3979">UkrBall12 : VARCHAR(255)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="133" x="429" y="117.2026">UkrBall : VARCHAR(255)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="130" x="429" y="130.0073">UkrAdaptScale : FLOAT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="105" x="429" y="142.812">UkrPTName : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="127" x="429" y="155.6167">UkrPTRegName : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="132" x="429" y="168.4214">UkrPTAreaName : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="124" x="429" y="181.2261">UkrPTTerName : TEXT</text><!--MD5=[376353cfd32b8fb059feca745848f38c]
+class e05--><rect codeLine="55" fill="#FEFECE" filter="url(#f1fahrm93r5fct)" height="180.8203" id="e05" style="stroke:#A80036;stroke-width:1.5;" width="168" x="624" y="7"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="23" x="696.5" y="23.1387">Hist</text><line style="stroke:#A80036;stroke-width:1.5;" x1="625" x2="791" y1="30.9688" y2="30.9688"/><ellipse cx="635" cy="41.9688" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="127" x="644" y="45.1792">OUTID : TEXT «PK, FK»</text><ellipse cx="635" cy="54.7734" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="116" x="644" y="57.9839">histTest : TEXT «PK»</text><line style="stroke:#A80036;stroke-width:1.0;" x1="625" x2="791" y1="64.5781" y2="64.5781"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="88" x="630" y="78.7886">HistLang : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="121" x="630" y="91.5933">histTestStatus : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="156" x="630" y="104.3979">histBall100 : VARCHAR(255)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="149" x="630" y="117.2026">histBall12 : VARCHAR(255)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="135" x="630" y="130.0073">histBall : VARCHAR(255)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="107" x="630" y="142.812">histPTName : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="129" x="630" y="155.6167">histPTRegName : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="134" x="630" y="168.4214">histPTAreaName : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="126" x="630" y="181.2261">histPTTerName : TEXT</text><!--MD5=[50e205938ed451ce85b939e9252b4662]
+class e06--><rect codeLine="70" fill="#FEFECE" filter="url(#f1fahrm93r5fct)" height="180.8203" id="e06" style="stroke:#A80036;stroke-width:1.5;" width="177" x="827.5" y="7"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="28" x="902" y="23.1387">Math</text><line style="stroke:#A80036;stroke-width:1.5;" x1="828.5" x2="1003.5" y1="30.9688" y2="30.9688"/><ellipse cx="838.5" cy="41.9688" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="127" x="847.5" y="45.1792">OUTID : TEXT «PK, FK»</text><ellipse cx="838.5" cy="54.7734" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="125" x="847.5" y="57.9839">mathTest : TEXT «PK»</text><line style="stroke:#A80036;stroke-width:1.0;" x1="828.5" x2="1003.5" y1="64.5781" y2="64.5781"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="96" x="833.5" y="78.7886">mathLang : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="130" x="833.5" y="91.5933">mathTestStatus : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="165" x="833.5" y="104.3979">mathBall100 : VARCHAR(255)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="158" x="833.5" y="117.2026">mathBall12 : VARCHAR(255)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="144" x="833.5" y="130.0073">mathBall : VARCHAR(255)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="116" x="833.5" y="142.812">mathPTName : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="138" x="833.5" y="155.6167">mathPTRegName : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="143" x="833.5" y="168.4214">mathPTAreaName : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="135" x="833.5" y="181.2261">mathPTTerName : TEXT</text><!--MD5=[e0b12cf65f4ef4b7fe2a8540bb04de00]
+class e07--><rect codeLine="85" fill="#FEFECE" filter="url(#f1fahrm93r5fct)" height="180.8203" id="e07" style="stroke:#A80036;stroke-width:1.5;" width="175" x="1039.5" y="7"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="27" x="1113.5" y="23.1387">Phys</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1040.5" x2="1213.5" y1="30.9688" y2="30.9688"/><ellipse cx="1050.5" cy="41.9688" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="127" x="1059.5" y="45.1792">OUTID : TEXT «PK, FK»</text><ellipse cx="1050.5" cy="54.7734" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="123" x="1059.5" y="57.9839">physTest : TEXT «PK»</text><line style="stroke:#A80036;stroke-width:1.0;" x1="1040.5" x2="1213.5" y1="64.5781" y2="64.5781"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="94" x="1045.5" y="78.7886">physLang : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="128" x="1045.5" y="91.5933">physTestStatus : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="163" x="1045.5" y="104.3979">physBall100 : VARCHAR(255)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="156" x="1045.5" y="117.2026">physBall12 : VARCHAR(255)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="142" x="1045.5" y="130.0073">physBall : VARCHAR(255)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="114" x="1045.5" y="142.812">physPTName : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="136" x="1045.5" y="155.6167">physPTRegName : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="141" x="1045.5" y="168.4214">physPTAreaName : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="133" x="1045.5" y="181.2261">physPTTerName : TEXT</text><!--MD5=[73a210a473a9386656ee43347bbb1d91]
+class e08--><rect codeLine="100" fill="#FEFECE" filter="url(#f1fahrm93r5fct)" height="180.8203" id="e08" style="stroke:#A80036;stroke-width:1.5;" width="180" x="1250" y="7"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="34" x="1323" y="23.1387">Chem</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1251" x2="1429" y1="30.9688" y2="30.9688"/><ellipse cx="1261" cy="41.9688" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="127" x="1270" y="45.1792">OUTID : TEXT «PK, FK»</text><ellipse cx="1261" cy="54.7734" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="128" x="1270" y="57.9839">chemTest : TEXT «PK»</text><line style="stroke:#A80036;stroke-width:1.0;" x1="1251" x2="1429" y1="64.5781" y2="64.5781"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="99" x="1256" y="78.7886">chemLang : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="133" x="1256" y="91.5933">chemTestStatus : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="168" x="1256" y="104.3979">chemBall100 : VARCHAR(255)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="161" x="1256" y="117.2026">chemBall12 : VARCHAR(255)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="147" x="1256" y="130.0073">chemBall : VARCHAR(255)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="119" x="1256" y="142.812">chemPTName : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="141" x="1256" y="155.6167">chemPTRegName : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="146" x="1256" y="168.4214">chemPTAreaName : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="138" x="1256" y="181.2261">chemPTTerName : TEXT</text><!--MD5=[a56f0dd6dc6859cfc8cf3ffe4723c349]
+class e09--><rect codeLine="115" fill="#FEFECE" filter="url(#f1fahrm93r5fct)" height="180.8203" id="e09" style="stroke:#A80036;stroke-width:1.5;" width="165" x="1465.5" y="7"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="19" x="1538.5" y="23.1387">Bio</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1466.5" x2="1629.5" y1="30.9688" y2="30.9688"/><ellipse cx="1476.5" cy="41.9688" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="127" x="1485.5" y="45.1792">OUTID : TEXT «PK, FK»</text><ellipse cx="1476.5" cy="54.7734" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="113" x="1485.5" y="57.9839">bioTest : TEXT «PK»</text><line style="stroke:#A80036;stroke-width:1.0;" x1="1466.5" x2="1629.5" y1="64.5781" y2="64.5781"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="84" x="1471.5" y="78.7886">bioLang : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="118" x="1471.5" y="91.5933">bioTestStatus : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="153" x="1471.5" y="104.3979">bioBall100 : VARCHAR(255)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="146" x="1471.5" y="117.2026">bioBall12 : VARCHAR(255)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="132" x="1471.5" y="130.0073">bioBall : VARCHAR(255)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="104" x="1471.5" y="142.812">bioPTName : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="126" x="1471.5" y="155.6167">bioPTRegName : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="131" x="1471.5" y="168.4214">bioPTAreaName : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="123" x="1471.5" y="181.2261">bioPTTerName : TEXT</text><!--MD5=[c3f354cd81b5f017e1bca9ef4ca24921]
+class e10--><rect codeLine="130" fill="#FEFECE" filter="url(#f1fahrm93r5fct)" height="180.8203" id="e10" style="stroke:#A80036;stroke-width:1.5;" width="170" x="1666" y="7"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="25" x="1738.5" y="23.1387">Geo</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1667" x2="1835" y1="30.9688" y2="30.9688"/><ellipse cx="1677" cy="41.9688" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="127" x="1686" y="45.1792">OUTID : TEXT «PK, FK»</text><ellipse cx="1677" cy="54.7734" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="118" x="1686" y="57.9839">geoTest : TEXT «PK»</text><line style="stroke:#A80036;stroke-width:1.0;" x1="1667" x2="1835" y1="64.5781" y2="64.5781"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="89" x="1672" y="78.7886">geoLang : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="123" x="1672" y="91.5933">geoTestStatus : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="158" x="1672" y="104.3979">geoBall100 : VARCHAR(255)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="151" x="1672" y="117.2026">geoBall12 : VARCHAR(255)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="137" x="1672" y="130.0073">geoBall : VARCHAR(255)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="109" x="1672" y="142.812">geoPTName : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="131" x="1672" y="155.6167">geoPTRegName : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="136" x="1672" y="168.4214">geoPTAreaName : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="128" x="1672" y="181.2261">geoPTTerName : TEXT</text><!--MD5=[170b1fabf85c84db8e3f399403779da6]
+class e11--><rect codeLine="145" fill="#FEFECE" filter="url(#f1fahrm93r5fct)" height="180.8203" id="e11" style="stroke:#A80036;stroke-width:1.5;" width="170" x="1871" y="7"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="22" x="1945" y="23.1387">Eng</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1872" x2="2040" y1="30.9688" y2="30.9688"/><ellipse cx="1882" cy="41.9688" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="127" x="1891" y="45.1792">OUTID : TEXT «PK, FK»</text><ellipse cx="1882" cy="54.7734" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="118" x="1891" y="57.9839">engTest : TEXT «PK»</text><line style="stroke:#A80036;stroke-width:1.0;" x1="1872" x2="2040" y1="64.5781" y2="64.5781"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="123" x="1877" y="78.7886">engTestStatus : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="158" x="1877" y="91.5933">engBall100 : VARCHAR(255)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="151" x="1877" y="104.3979">engBall12 : VARCHAR(255)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="117" x="1877" y="117.2026">engDPALevel : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="137" x="1877" y="130.0073">engBall : VARCHAR(255)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="109" x="1877" y="142.812">engPTName : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="131" x="1877" y="155.6167">engPTRegName : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="136" x="1877" y="168.4214">engPTAreaName : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="128" x="1877" y="181.2261">engPTTerName : TEXT</text><!--MD5=[594eb307fcbf254877040be2173f3e58]
+class e12--><rect codeLine="160" fill="#FEFECE" filter="url(#f1fahrm93r5fct)" height="180.8203" id="e12" style="stroke:#A80036;stroke-width:1.5;" width="163" x="2076.5" y="7"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="19" x="2148.5" y="23.1387">Fra</text><line style="stroke:#A80036;stroke-width:1.5;" x1="2077.5" x2="2238.5" y1="30.9688" y2="30.9688"/><ellipse cx="2087.5" cy="41.9688" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="127" x="2096.5" y="45.1792">OUTID : TEXT «PK, FK»</text><ellipse cx="2087.5" cy="54.7734" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="111" x="2096.5" y="57.9839">fraTest : TEXT «PK»</text><line style="stroke:#A80036;stroke-width:1.0;" x1="2077.5" x2="2238.5" y1="64.5781" y2="64.5781"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="116" x="2082.5" y="78.7886">fraTestStatus : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="151" x="2082.5" y="91.5933">fraBall100 : VARCHAR(255)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="144" x="2082.5" y="104.3979">fraBall12 : VARCHAR(255)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="110" x="2082.5" y="117.2026">fraDPALevel : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="130" x="2082.5" y="130.0073">fraBall : VARCHAR(255)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="102" x="2082.5" y="142.812">fraPTName : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="124" x="2082.5" y="155.6167">fraPTRegName : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="129" x="2082.5" y="168.4214">fraPTAreaName : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="121" x="2082.5" y="181.2261">fraPTTerName : TEXT</text><!--MD5=[92f3887fffb4d8db0f3b292fb49471c9]
+class e13--><rect codeLine="175" fill="#FEFECE" filter="url(#f1fahrm93r5fct)" height="180.8203" id="e13" style="stroke:#A80036;stroke-width:1.5;" width="170" x="2275" y="7"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="24" x="2348" y="23.1387">Deu</text><line style="stroke:#A80036;stroke-width:1.5;" x1="2276" x2="2444" y1="30.9688" y2="30.9688"/><ellipse cx="2286" cy="41.9688" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="127" x="2295" y="45.1792">OUTID : TEXT «PK, FK»</text><ellipse cx="2286" cy="54.7734" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="118" x="2295" y="57.9839">deuTest : TEXT «PK»</text><line style="stroke:#A80036;stroke-width:1.0;" x1="2276" x2="2444" y1="64.5781" y2="64.5781"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="123" x="2281" y="78.7886">deuTestStatus : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="158" x="2281" y="91.5933">deuBall100 : VARCHAR(255)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="151" x="2281" y="104.3979">deuBall12 : VARCHAR(255)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="117" x="2281" y="117.2026">deuDPALevel : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="137" x="2281" y="130.0073">deuBall : VARCHAR(255)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="109" x="2281" y="142.812">deuPTName : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="131" x="2281" y="155.6167">deuPTRegName : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="136" x="2281" y="168.4214">deuPTAreaName : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="128" x="2281" y="181.2261">deuPTTerName : TEXT</text><!--MD5=[9d43f34a0560cecf9c5ad0fefa9b1337]
+class e14--><rect codeLine="190" fill="#FEFECE" filter="url(#f1fahrm93r5fct)" height="180.8203" id="e14" style="stroke:#A80036;stroke-width:1.5;" width="168" x="2480" y="7"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="23" x="2552.5" y="23.1387">Spa</text><line style="stroke:#A80036;stroke-width:1.5;" x1="2481" x2="2647" y1="30.9688" y2="30.9688"/><ellipse cx="2491" cy="41.9688" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="127" x="2500" y="45.1792">OUTID : TEXT «PK, FK»</text><ellipse cx="2491" cy="54.7734" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="116" x="2500" y="57.9839">spaTest : TEXT «PK»</text><line style="stroke:#A80036;stroke-width:1.0;" x1="2481" x2="2647" y1="64.5781" y2="64.5781"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="121" x="2486" y="78.7886">spaTestStatus : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="156" x="2486" y="91.5933">spaBall100 : VARCHAR(255)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="149" x="2486" y="104.3979">spaBall12 : VARCHAR(255)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="115" x="2486" y="117.2026">spaDPALevel : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="135" x="2486" y="130.0073">spaBall : VARCHAR(255)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="107" x="2486" y="142.812">spaPTName : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="129" x="2486" y="155.6167">spaPTRegName : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="134" x="2486" y="168.4214">spaPTAreaName : TEXT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="126" x="2486" y="181.2261">spaPTTerName : TEXT</text><!--MD5=[7d30614cb0fbe2da81966bdecb17f8b2]
+link e02 to e01--><path codeLine="205" d="M99,157.829 C99,157.829 99,381 99,381 C99,381 1246.7,381 1246.7,381 " fill="none" id="e02-e01" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1246.7" x2="1254.7" y1="381" y2="375"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1246.7" x2="1254.7" y1="381" y2="387"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1246.7" x2="1254.7" y1="381" y2="381"/><ellipse cx="1240.7" cy="381" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;fill:none;"/><line style="stroke:#A80036;stroke-width:1.0;fill:none;" x1="95" x2="103" y1="153.829" y2="153.829"/><line style="stroke:#A80036;stroke-width:1.0;fill:none;" x1="95" x2="103" y1="156.829" y2="156.829"/><line style="stroke:#A80036;stroke-width:1.0;fill:none;" x1="99" x2="99" y1="157.829" y2="149.829"/><!--MD5=[aaa07cf7073daf64ffeb2b4ba50194a5]
+link e03 to e01--><path codeLine="206" d="M307,170.813 C307,170.813 307,359 307,359 C307,359 1246.59,359 1246.59,359 " fill="none" id="e03-e01" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1246.59" x2="1254.59" y1="359" y2="353"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1246.59" x2="1254.59" y1="359" y2="365"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1246.59" x2="1254.59" y1="359" y2="359"/><ellipse cx="1240.59" cy="359" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;fill:none;"/><line style="stroke:#A80036;stroke-width:1.0;fill:none;" x1="303" x2="311" y1="166.813" y2="166.813"/><line style="stroke:#A80036;stroke-width:1.0;fill:none;" x1="303" x2="311" y1="169.813" y2="169.813"/><line style="stroke:#A80036;stroke-width:1.0;fill:none;" x1="307" x2="307" y1="170.813" y2="162.813"/><!--MD5=[7386258e883ade82d7090389a83f9d7c]
+link e04 to e01--><path codeLine="207" d="M506,195.045 C506,195.045 506,337 506,337 C506,337 1247.67,337 1247.67,337 " fill="none" id="e04-e01" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1250.67" x2="1250.67" y1="333" y2="341"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1247.67" x2="1247.67" y1="333" y2="341"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1246.67" x2="1254.67" y1="337" y2="337"/><line style="stroke:#A80036;stroke-width:1.0;" x1="502" x2="510" y1="192.045" y2="192.045"/><line style="stroke:#A80036;stroke-width:1.0;" x1="502" x2="510" y1="195.045" y2="195.045"/><line style="stroke:#A80036;stroke-width:1.0;" x1="506" x2="506" y1="196.045" y2="188.045"/><!--MD5=[d4333fcf6bb38f8cc6fb660993f0813d]
+link e05 to e01--><path codeLine="208" d="M708,196.165 C708,196.165 708,315 708,315 C708,315 1246.77,315 1246.77,315 " fill="none" id="e05-e01" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1250.77" x2="1250.77" y1="311" y2="319"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1247.77" x2="1247.77" y1="311" y2="319"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1246.77" x2="1254.77" y1="315" y2="315"/><line style="stroke:#A80036;stroke-width:1.0;" x1="708" x2="708" y1="199.165" y2="188.165"/><ellipse cx="708" cy="199.165" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;fill:none;"/><line style="stroke:#A80036;stroke-width:1.0;fill:none;" x1="704" x2="712" y1="192.165" y2="192.165"/><!--MD5=[f9f50e2cc0a630ed3c853e25b996f1ff]
+link e06 to e01--><path codeLine="209" d="M916,196.096 C916,196.096 916,293 916,293 C916,293 1246.96,293 1246.96,293 " fill="none" id="e06-e01" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1250.96" x2="1250.96" y1="289" y2="297"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1247.96" x2="1247.96" y1="289" y2="297"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1246.96" x2="1254.96" y1="293" y2="293"/><line style="stroke:#A80036;stroke-width:1.0;" x1="916" x2="916" y1="199.096" y2="188.096"/><ellipse cx="916" cy="199.096" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;fill:none;"/><line style="stroke:#A80036;stroke-width:1.0;fill:none;" x1="912" x2="920" y1="192.096" y2="192.096"/><!--MD5=[dc567f80b0e40d3bc55ada0d5f53b173]
+link e07 to e01--><path codeLine="210" d="M1127,196.061 C1127,196.061 1127,271 1127,271 C1127,271 1246.9,271 1246.9,271 " fill="none" id="e07-e01" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1250.9" x2="1250.9" y1="267" y2="275"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1247.9" x2="1247.9" y1="267" y2="275"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1246.9" x2="1254.9" y1="271" y2="271"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1127" x2="1127" y1="199.061" y2="188.061"/><ellipse cx="1127" cy="199.061" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;fill:none;"/><line style="stroke:#A80036;stroke-width:1.0;fill:none;" x1="1123" x2="1131" y1="192.061" y2="192.061"/><!--MD5=[657f0272b5489558efb4a522ec515a6d]
+link e08 to e01--><path codeLine="211" d="M1340,196.267 C1340,196.267 1340,239.908 1340,239.908 " fill="none" id="e08-e01" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1344" x2="1336" y1="243.908" y2="243.908"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1344" x2="1336" y1="240.908" y2="240.908"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1340" x2="1340" y1="239.908" y2="247.908"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1340" x2="1340" y1="199.267" y2="188.267"/><ellipse cx="1340" cy="199.267" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;fill:none;"/><line style="stroke:#A80036;stroke-width:1.0;fill:none;" x1="1336" x2="1344" y1="192.267" y2="192.267"/><!--MD5=[5a6e065a4c29bf46a5a6a94142da1130]
+link e09 to e01--><path codeLine="212" d="M1548,196.061 C1548,196.061 1548,271 1548,271 C1548,271 1433.2,271 1433.2,271 " fill="none" id="e09-e01" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1429.2" x2="1429.2" y1="275" y2="267"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1432.2" x2="1432.2" y1="275" y2="267"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1433.2" x2="1425.2" y1="271" y2="271"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1548" x2="1548" y1="199.061" y2="188.061"/><ellipse cx="1548" cy="199.061" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;fill:none;"/><line style="stroke:#A80036;stroke-width:1.0;fill:none;" x1="1544" x2="1552" y1="192.061" y2="192.061"/><!--MD5=[0f3ef06ffccdfcbc870241a522d9f734]
+link e10 to e01--><path codeLine="213" d="M1751,196.096 C1751,196.096 1751,293 1751,293 C1751,293 1433.16,293 1433.16,293 " fill="none" id="e10-e01" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1429.16" x2="1429.16" y1="297" y2="289"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1432.16" x2="1432.16" y1="297" y2="289"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1433.16" x2="1425.16" y1="293" y2="293"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1751" x2="1751" y1="199.096" y2="188.096"/><ellipse cx="1751" cy="199.096" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;fill:none;"/><line style="stroke:#A80036;stroke-width:1.0;fill:none;" x1="1747" x2="1755" y1="192.096" y2="192.096"/><!--MD5=[c84c95e6f186016ab9ee26e9ff5cfe45]
+link e11 to e01--><path codeLine="214" d="M1956,196.165 C1956,196.165 1956,315 1956,315 C1956,315 1433.01,315 1433.01,315 " fill="none" id="e11-e01" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1429.01" x2="1429.01" y1="319" y2="311"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1432.01" x2="1432.01" y1="319" y2="311"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1433.01" x2="1425.01" y1="315" y2="315"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1956" x2="1956" y1="199.165" y2="188.165"/><ellipse cx="1956" cy="199.165" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;fill:none;"/><line style="stroke:#A80036;stroke-width:1.0;fill:none;" x1="1952" x2="1960" y1="192.165" y2="192.165"/><!--MD5=[88045e46e614e3b50174a9c258a1b65b]
+link e12 to e01--><path codeLine="215" d="M2158,196.045 C2158,196.045 2158,337 2158,337 C2158,337 1433.23,337 1433.23,337 " fill="none" id="e12-e01" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1429.23" x2="1429.23" y1="341" y2="333"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1432.23" x2="1432.23" y1="341" y2="333"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1433.23" x2="1425.23" y1="337" y2="337"/><line style="stroke:#A80036;stroke-width:1.0;" x1="2158" x2="2158" y1="199.045" y2="188.045"/><ellipse cx="2158" cy="199.045" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;fill:none;"/><line style="stroke:#A80036;stroke-width:1.0;fill:none;" x1="2154" x2="2162" y1="192.045" y2="192.045"/><!--MD5=[edec19c4dac67fce5c42afc388040e8a]
+link e13 to e01--><path codeLine="216" d="M2360,196.226 C2360,196.226 2360,359 2360,359 C2360,359 1433.21,359 1433.21,359 " fill="none" id="e13-e01" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1429.21" x2="1429.21" y1="363" y2="355"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1432.21" x2="1432.21" y1="363" y2="355"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1433.21" x2="1425.21" y1="359" y2="359"/><line style="stroke:#A80036;stroke-width:1.0;" x1="2360" x2="2360" y1="199.226" y2="188.226"/><ellipse cx="2360" cy="199.226" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;fill:none;"/><line style="stroke:#A80036;stroke-width:1.0;fill:none;" x1="2356" x2="2364" y1="192.226" y2="192.226"/><!--MD5=[f136a6413903c499aedbb9006df0130f]
+link e14 to e01--><path codeLine="217" d="M2564,196.371 C2564,196.371 2564,381 2564,381 C2564,381 1433.1,381 1433.1,381 " fill="none" id="e14-e01" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1429.1" x2="1429.1" y1="385" y2="377"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1432.1" x2="1432.1" y1="385" y2="377"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1433.1" x2="1425.1" y1="381" y2="381"/><line style="stroke:#A80036;stroke-width:1.0;" x1="2564" x2="2564" y1="199.371" y2="188.371"/><ellipse cx="2564" cy="199.371" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;fill:none;"/><line style="stroke:#A80036;stroke-width:1.0;fill:none;" x1="2560" x2="2568" y1="192.371" y2="192.371"/><!--MD5=[baab93acc6c58d1ec4cfcbd88e167d17]
+@startuml
+' hide the spot
+hide circle
+
+' avoid problems with angled crows feet
+skinparam linetype ortho
+
+entity "Person" as e01 {
+  *OUTID : TEXT <<PK>>
+ - -
+  Birth : INTEGER
+  SEXTYPENAME : TEXT
+  Year : INTEGER
+  Region_index : SERIAL <<FK>>
+  REGTYPENAME : TEXT
+  ClassProfileNAME : TEXT
+  ClassLangName : TEXT
+  EO_index : SERIAL <<FK>>
+}
+
+entity "Region" as e02 {
+  *Region_index : SERIAL <<PK>>
+  - -
+  REGNAME : TEXT
+  AREANAME : TEXT
+  TERNAME : TEXT
+  TerTypeName : TEXT
+}
+
+entity "EO" as e03 {
+  *EO_index : SERIAL <<PK>>
+  - -
+  EONAME : TEXT
+  EOTYPENAME : TEXT
+  EORegName : TEXT
+  EOAreaName : TEXT
+  EOTerName : TEXT
+  EOParent : TEXT
+}
+
+entity "Ukr" as e04 {
+  *OUTID : TEXT <<PK, FK>>
+  *UkrTest : TEXT <<PK>>
+  - -
+  UkrTestStatus : TEXT
+  UkrBall100 : VARCHAR(255)
+  UkrBall12 : VARCHAR(255)
+  UkrBall : VARCHAR(255)
+  UkrAdaptScale : FLOAT
+  UkrPTName : TEXT
+  UkrPTRegName : TEXT
+  UkrPTAreaName : TEXT
+  UkrPTTerName : TEXT
+}
+
+entity "Hist" as e05 {
+  *OUTID : TEXT <<PK, FK>>
+  *histTest : TEXT <<PK>> 
+  - -
+  HistLang : TEXT
+  histTestStatus : TEXT
+  histBall100 : VARCHAR(255)
+  histBall12 : VARCHAR(255)
+  histBall : VARCHAR(255)
+  histPTName : TEXT
+  histPTRegName : TEXT
+  histPTAreaName : TEXT
+  histPTTerName : TEXT
+}
+
+entity "Math" as e06 {
+  *OUTID : TEXT <<PK, FK>>
+  *mathTest : TEXT <<PK>> 
+  - -
+  mathLang : TEXT
+  mathTestStatus : TEXT
+  mathBall100 : VARCHAR(255)
+  mathBall12 : VARCHAR(255)
+  mathBall : VARCHAR(255)
+  mathPTName : TEXT
+  mathPTRegName : TEXT
+  mathPTAreaName : TEXT
+  mathPTTerName : TEXT
+}
+
+entity "Phys" as e07 {
+  *OUTID : TEXT <<PK, FK>>
+  *physTest : TEXT <<PK>> 
+  - -
+  physLang : TEXT
+  physTestStatus : TEXT
+  physBall100 : VARCHAR(255)
+  physBall12 : VARCHAR(255)
+  physBall : VARCHAR(255)
+  physPTName : TEXT
+  physPTRegName : TEXT
+  physPTAreaName : TEXT
+  physPTTerName : TEXT
+}
+
+entity "Chem" as e08 {
+  *OUTID : TEXT <<PK, FK>>
+  *chemTest : TEXT <<PK>> 
+  - -
+  chemLang : TEXT
+  chemTestStatus : TEXT
+  chemBall100 : VARCHAR(255)
+  chemBall12 : VARCHAR(255)
+  chemBall : VARCHAR(255)
+  chemPTName : TEXT
+  chemPTRegName : TEXT
+  chemPTAreaName : TEXT
+  chemPTTerName : TEXT
+}
+
+entity "Bio" as e09 {
+  *OUTID : TEXT <<PK, FK>>
+  *bioTest : TEXT <<PK>> 
+  - -
+  bioLang : TEXT
+  bioTestStatus : TEXT
+  bioBall100 : VARCHAR(255)
+  bioBall12 : VARCHAR(255)
+  bioBall : VARCHAR(255)
+  bioPTName : TEXT
+  bioPTRegName : TEXT
+  bioPTAreaName : TEXT
+  bioPTTerName : TEXT
+}
+
+entity "Geo" as e10 {
+  *OUTID : TEXT <<PK, FK>>
+  *geoTest : TEXT <<PK>> 
+  - -
+  geoLang : TEXT
+  geoTestStatus : TEXT
+  geoBall100 : VARCHAR(255)
+  geoBall12 : VARCHAR(255)
+  geoBall : VARCHAR(255)
+  geoPTName : TEXT
+  geoPTRegName : TEXT
+  geoPTAreaName : TEXT
+  geoPTTerName : TEXT
+}
+
+entity "Eng" as e11 {
+  *OUTID : TEXT <<PK, FK>>
+  *engTest : TEXT <<PK>> 
+  - -
+  engTestStatus : TEXT
+  engBall100 : VARCHAR(255)
+  engBall12 : VARCHAR(255)
+  engDPALevel : TEXT
+  engBall : VARCHAR(255)
+  engPTName : TEXT
+  engPTRegName : TEXT
+  engPTAreaName : TEXT
+  engPTTerName : TEXT
+}
+
+entity "Fra" as e12 {
+  *OUTID : TEXT <<PK, FK>>
+  *fraTest : TEXT <<PK>> 
+  - -
+  fraTestStatus : TEXT
+  fraBall100 : VARCHAR(255)
+  fraBall12 : VARCHAR(255)
+  fraDPALevel : TEXT
+  fraBall : VARCHAR(255)
+  fraPTName : TEXT
+  fraPTRegName : TEXT
+  fraPTAreaName : TEXT
+  fraPTTerName : TEXT
+}
+
+entity "Deu" as e13 {
+  *OUTID : TEXT <<PK, FK>>
+  *deuTest : TEXT <<PK>> 
+  - -
+  deuTestStatus : TEXT
+  deuBall100 : VARCHAR(255)
+  deuBall12 : VARCHAR(255)
+  deuDPALevel : TEXT
+  deuBall : VARCHAR(255)
+  deuPTName : TEXT
+  deuPTRegName : TEXT
+  deuPTAreaName : TEXT
+  deuPTTerName : TEXT
+}
+
+entity "Spa" as e14 {
+  *OUTID : TEXT <<PK, FK>>
+  *spaTest : TEXT <<PK>> 
+  - -
+  spaTestStatus : TEXT
+  spaBall100 : VARCHAR(255)
+  spaBall12 : VARCHAR(255)
+  spaDPALevel : TEXT
+  spaBall : VARCHAR(255)
+  spaPTName : TEXT
+  spaPTRegName : TEXT
+  spaPTAreaName : TEXT
+  spaPTTerName : TEXT
+}
+
+e02 ||..o{ e01
+e03 ||..o{ e01
+e04 ||..|| e01
+e05 |o..|| e01
+e06 |o..|| e01
+e07 |o..|| e01
+e08 |o..|| e01
+e09 |o..|| e01
+e10 |o..|| e01
+e11 |o..|| e01
+e12 |o..|| e01
+e13 |o..|| e01
+e14 |o..|| e01
+@enduml
+
+@startuml
+hide circle
+
+skinparam linetype ortho
+
+entity "Person" as e01 {
+  *OUTID : TEXT <<PK>>
+ - -
+  Birth : INTEGER
+  SEXTYPENAME : TEXT
+  Year : INTEGER
+  Region_index : SERIAL <<FK>>
+  REGTYPENAME : TEXT
+  ClassProfileNAME : TEXT
+  ClassLangName : TEXT
+  EO_index : SERIAL <<FK>>
+}
+
+entity "Region" as e02 {
+  *Region_index : SERIAL <<PK>>
+  - -
+  REGNAME : TEXT
+  AREANAME : TEXT
+  TERNAME : TEXT
+  TerTypeName : TEXT
+}
+
+entity "EO" as e03 {
+  *EO_index : SERIAL <<PK>>
+  - -
+  EONAME : TEXT
+  EOTYPENAME : TEXT
+  EORegName : TEXT
+  EOAreaName : TEXT
+  EOTerName : TEXT
+  EOParent : TEXT
+}
+
+entity "Ukr" as e04 {
+  *OUTID : TEXT <<PK, FK>>
+  *UkrTest : TEXT <<PK>>
+  - -
+  UkrTestStatus : TEXT
+  UkrBall100 : VARCHAR(255)
+  UkrBall12 : VARCHAR(255)
+  UkrBall : VARCHAR(255)
+  UkrAdaptScale : FLOAT
+  UkrPTName : TEXT
+  UkrPTRegName : TEXT
+  UkrPTAreaName : TEXT
+  UkrPTTerName : TEXT
+}
+
+entity "Hist" as e05 {
+  *OUTID : TEXT <<PK, FK>>
+  *histTest : TEXT <<PK>> 
+  - -
+  HistLang : TEXT
+  histTestStatus : TEXT
+  histBall100 : VARCHAR(255)
+  histBall12 : VARCHAR(255)
+  histBall : VARCHAR(255)
+  histPTName : TEXT
+  histPTRegName : TEXT
+  histPTAreaName : TEXT
+  histPTTerName : TEXT
+}
+
+entity "Math" as e06 {
+  *OUTID : TEXT <<PK, FK>>
+  *mathTest : TEXT <<PK>> 
+  - -
+  mathLang : TEXT
+  mathTestStatus : TEXT
+  mathBall100 : VARCHAR(255)
+  mathBall12 : VARCHAR(255)
+  mathBall : VARCHAR(255)
+  mathPTName : TEXT
+  mathPTRegName : TEXT
+  mathPTAreaName : TEXT
+  mathPTTerName : TEXT
+}
+
+entity "Phys" as e07 {
+  *OUTID : TEXT <<PK, FK>>
+  *physTest : TEXT <<PK>> 
+  - -
+  physLang : TEXT
+  physTestStatus : TEXT
+  physBall100 : VARCHAR(255)
+  physBall12 : VARCHAR(255)
+  physBall : VARCHAR(255)
+  physPTName : TEXT
+  physPTRegName : TEXT
+  physPTAreaName : TEXT
+  physPTTerName : TEXT
+}
+
+entity "Chem" as e08 {
+  *OUTID : TEXT <<PK, FK>>
+  *chemTest : TEXT <<PK>> 
+  - -
+  chemLang : TEXT
+  chemTestStatus : TEXT
+  chemBall100 : VARCHAR(255)
+  chemBall12 : VARCHAR(255)
+  chemBall : VARCHAR(255)
+  chemPTName : TEXT
+  chemPTRegName : TEXT
+  chemPTAreaName : TEXT
+  chemPTTerName : TEXT
+}
+
+entity "Bio" as e09 {
+  *OUTID : TEXT <<PK, FK>>
+  *bioTest : TEXT <<PK>> 
+  - -
+  bioLang : TEXT
+  bioTestStatus : TEXT
+  bioBall100 : VARCHAR(255)
+  bioBall12 : VARCHAR(255)
+  bioBall : VARCHAR(255)
+  bioPTName : TEXT
+  bioPTRegName : TEXT
+  bioPTAreaName : TEXT
+  bioPTTerName : TEXT
+}
+
+entity "Geo" as e10 {
+  *OUTID : TEXT <<PK, FK>>
+  *geoTest : TEXT <<PK>> 
+  - -
+  geoLang : TEXT
+  geoTestStatus : TEXT
+  geoBall100 : VARCHAR(255)
+  geoBall12 : VARCHAR(255)
+  geoBall : VARCHAR(255)
+  geoPTName : TEXT
+  geoPTRegName : TEXT
+  geoPTAreaName : TEXT
+  geoPTTerName : TEXT
+}
+
+entity "Eng" as e11 {
+  *OUTID : TEXT <<PK, FK>>
+  *engTest : TEXT <<PK>> 
+  - -
+  engTestStatus : TEXT
+  engBall100 : VARCHAR(255)
+  engBall12 : VARCHAR(255)
+  engDPALevel : TEXT
+  engBall : VARCHAR(255)
+  engPTName : TEXT
+  engPTRegName : TEXT
+  engPTAreaName : TEXT
+  engPTTerName : TEXT
+}
+
+entity "Fra" as e12 {
+  *OUTID : TEXT <<PK, FK>>
+  *fraTest : TEXT <<PK>> 
+  - -
+  fraTestStatus : TEXT
+  fraBall100 : VARCHAR(255)
+  fraBall12 : VARCHAR(255)
+  fraDPALevel : TEXT
+  fraBall : VARCHAR(255)
+  fraPTName : TEXT
+  fraPTRegName : TEXT
+  fraPTAreaName : TEXT
+  fraPTTerName : TEXT
+}
+
+entity "Deu" as e13 {
+  *OUTID : TEXT <<PK, FK>>
+  *deuTest : TEXT <<PK>> 
+  - -
+  deuTestStatus : TEXT
+  deuBall100 : VARCHAR(255)
+  deuBall12 : VARCHAR(255)
+  deuDPALevel : TEXT
+  deuBall : VARCHAR(255)
+  deuPTName : TEXT
+  deuPTRegName : TEXT
+  deuPTAreaName : TEXT
+  deuPTTerName : TEXT
+}
+
+entity "Spa" as e14 {
+  *OUTID : TEXT <<PK, FK>>
+  *spaTest : TEXT <<PK>> 
+  - -
+  spaTestStatus : TEXT
+  spaBall100 : VARCHAR(255)
+  spaBall12 : VARCHAR(255)
+  spaDPALevel : TEXT
+  spaBall : VARCHAR(255)
+  spaPTName : TEXT
+  spaPTRegName : TEXT
+  spaPTAreaName : TEXT
+  spaPTTerName : TEXT
+}
+
+e02 ||..o{ e01
+e03 ||..o{ e01
+e04 ||..|| e01
+e05 |o..|| e01
+e06 |o..|| e01
+e07 |o..|| e01
+e08 |o..|| e01
+e09 |o..|| e01
+e10 |o..|| e01
+e11 |o..|| e01
+e12 |o..|| e01
+e13 |o..|| e01
+e14 |o..|| e01
+@enduml
+
+PlantUML version 1.2021.4(Sun Apr 04 08:49:39 UTC 2021)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

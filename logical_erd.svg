@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="417px" preserveAspectRatio="none" style="width:1826px;height:417px;" version="1.1" viewBox="0 0 1826 417" width="1826px" zoomAndPan="magnify"><defs><filter height="300%" id="foijk08lrfj3j" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[44e3be5e93100f87f3b6fc2e9bda0b10]
+class e01--><rect codeLine="7" fill="#FEFECE" filter="url(#foijk08lrfj3j)" height="155.2109" id="e01" style="stroke:#A80036;stroke-width:1.5;" width="109" x="853" y="248"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="41" x="887" y="264.1387">Person</text><line style="stroke:#A80036;stroke-width:1.5;" x1="854" x2="961" y1="271.9688" y2="271.9688"/><ellipse cx="864" cy="282.9688" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="36" x="873" y="286.1792">OUTID</text><line style="stroke:#A80036;stroke-width:1.0;" x1="854" x2="961" y1="292.7734" y2="292.7734"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="26" x="859" y="306.9839">Birth</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="82" x="859" y="319.7886">SEXTYPENAME</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="26" x="859" y="332.5933">Year</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="77" x="859" y="345.3979">Region_index</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="82" x="859" y="358.2026">REGTYPENAME</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="97" x="859" y="371.0073">ClassProfileNAME</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="91" x="859" y="383.812">ClassLangName</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="54" x="859" y="396.6167">EO_index</text><!--MD5=[a7e3466bc31fc7f02d93123623092e97]
+class e02--><rect codeLine="20" fill="#FEFECE" filter="url(#foijk08lrfj3j)" height="103.9922" id="e02" style="stroke:#A80036;stroke-width:1.5;" width="103" x="7" y="45.5"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="41" x="38" y="61.6387">Region</text><line style="stroke:#A80036;stroke-width:1.5;" x1="8" x2="109" y1="69.4688" y2="69.4688"/><ellipse cx="18" cy="80.4688" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="77" x="27" y="83.6792">Region_index</text><line style="stroke:#A80036;stroke-width:1.0;" x1="8" x2="109" y1="90.2734" y2="90.2734"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="55" x="13" y="104.4839">REGNAME</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="62" x="13" y="117.2886">AREANAME</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="53" x="13" y="130.0933">TERNAME</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="82" x="13" y="142.8979">TerTypeName</text><!--MD5=[7d712c38379410506897aa674a718ccb]
+class e03--><rect codeLine="29" fill="#FEFECE" filter="url(#foijk08lrfj3j)" height="129.6016" id="e03" style="stroke:#A80036;stroke-width:1.5;" width="89" x="145" y="32.5"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="17" x="181" y="48.6387">EO</text><line style="stroke:#A80036;stroke-width:1.5;" x1="146" x2="233" y1="56.4688" y2="56.4688"/><ellipse cx="156" cy="67.4688" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="54" x="165" y="70.6792">EO_index</text><line style="stroke:#A80036;stroke-width:1.0;" x1="146" x2="233" y1="77.2734" y2="77.2734"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="48" x="151" y="91.4839">EONAME</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="75" x="151" y="104.2886">EOTYPENAME</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="72" x="151" y="117.0933">EORegName</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="77" x="151" y="129.8979">EOAreaName</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="69" x="151" y="142.7026">EOTerName</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="52" x="151" y="155.5073">EOParent</text><!--MD5=[7bebe7b0065ab6ae71148dc043c4371c]
+class e04--><rect codeLine="40" fill="#FEFECE" filter="url(#foijk08lrfj3j)" height="180.8203" id="e04" style="stroke:#A80036;stroke-width:1.5;" width="104" x="269.5" y="7"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="21" x="311" y="23.1387">Ukr</text><line style="stroke:#A80036;stroke-width:1.5;" x1="270.5" x2="372.5" y1="30.9688" y2="30.9688"/><ellipse cx="280.5" cy="41.9688" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="36" x="289.5" y="45.1792">OUTID</text><ellipse cx="280.5" cy="54.7734" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="43" x="289.5" y="57.9839">UkrTest</text><line style="stroke:#A80036;stroke-width:1.0;" x1="270.5" x2="372.5" y1="64.5781" y2="64.5781"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="79" x="275.5" y="78.7886">UkrTestStatus</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="60" x="275.5" y="91.5933">UkrBall100</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="53" x="275.5" y="104.3979">UkrBall12</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="39" x="275.5" y="117.2026">UkrBall</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="83" x="275.5" y="130.0073">UkrAdaptScale</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="65" x="275.5" y="142.812">UkrPTName</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="87" x="275.5" y="155.6167">UkrPTRegName</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="92" x="275.5" y="168.4214">UkrPTAreaName</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="84" x="275.5" y="181.2261">UkrPTTerName</text><!--MD5=[376353cfd32b8fb059feca745848f38c]
+class e05--><rect codeLine="55" fill="#FEFECE" filter="url(#foijk08lrfj3j)" height="180.8203" id="e05" style="stroke:#A80036;stroke-width:1.5;" width="106" x="408.5" y="7"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="23" x="450" y="23.1387">Hist</text><line style="stroke:#A80036;stroke-width:1.5;" x1="409.5" x2="513.5" y1="30.9688" y2="30.9688"/><ellipse cx="419.5" cy="41.9688" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="36" x="428.5" y="45.1792">OUTID</text><ellipse cx="419.5" cy="54.7734" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="45" x="428.5" y="57.9839">histTest</text><line style="stroke:#A80036;stroke-width:1.0;" x1="409.5" x2="513.5" y1="64.5781" y2="64.5781"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="48" x="414.5" y="78.7886">HistLang</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="81" x="414.5" y="91.5933">histTestStatus</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="62" x="414.5" y="104.3979">histBall100</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="55" x="414.5" y="117.2026">histBall12</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="41" x="414.5" y="130.0073">histBall</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="67" x="414.5" y="142.812">histPTName</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="89" x="414.5" y="155.6167">histPTRegName</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="94" x="414.5" y="168.4214">histPTAreaName</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="86" x="414.5" y="181.2261">histPTTerName</text><!--MD5=[50e205938ed451ce85b939e9252b4662]
+class e06--><rect codeLine="70" fill="#FEFECE" filter="url(#foijk08lrfj3j)" height="180.8203" id="e06" style="stroke:#A80036;stroke-width:1.5;" width="115" x="550" y="7"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="28" x="593.5" y="23.1387">Math</text><line style="stroke:#A80036;stroke-width:1.5;" x1="551" x2="664" y1="30.9688" y2="30.9688"/><ellipse cx="561" cy="41.9688" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="36" x="570" y="45.1792">OUTID</text><ellipse cx="561" cy="54.7734" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="54" x="570" y="57.9839">mathTest</text><line style="stroke:#A80036;stroke-width:1.0;" x1="551" x2="664" y1="64.5781" y2="64.5781"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="56" x="556" y="78.7886">mathLang</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="90" x="556" y="91.5933">mathTestStatus</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="71" x="556" y="104.3979">mathBall100</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="64" x="556" y="117.2026">mathBall12</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="50" x="556" y="130.0073">mathBall</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="76" x="556" y="142.812">mathPTName</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="98" x="556" y="155.6167">mathPTRegName</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="103" x="556" y="168.4214">mathPTAreaName</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="95" x="556" y="181.2261">mathPTTerName</text><!--MD5=[e0b12cf65f4ef4b7fe2a8540bb04de00]
+class e07--><rect codeLine="85" fill="#FEFECE" filter="url(#foijk08lrfj3j)" height="180.8203" id="e07" style="stroke:#A80036;stroke-width:1.5;" width="113" x="700" y="7"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="27" x="743" y="23.1387">Phys</text><line style="stroke:#A80036;stroke-width:1.5;" x1="701" x2="812" y1="30.9688" y2="30.9688"/><ellipse cx="711" cy="41.9688" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="36" x="720" y="45.1792">OUTID</text><ellipse cx="711" cy="54.7734" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="52" x="720" y="57.9839">physTest</text><line style="stroke:#A80036;stroke-width:1.0;" x1="701" x2="812" y1="64.5781" y2="64.5781"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="54" x="706" y="78.7886">physLang</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="88" x="706" y="91.5933">physTestStatus</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="69" x="706" y="104.3979">physBall100</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="62" x="706" y="117.2026">physBall12</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="48" x="706" y="130.0073">physBall</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="74" x="706" y="142.812">physPTName</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="96" x="706" y="155.6167">physPTRegName</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="101" x="706" y="168.4214">physPTAreaName</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="93" x="706" y="181.2261">physPTTerName</text><!--MD5=[73a210a473a9386656ee43347bbb1d91]
+class e08--><rect codeLine="100" fill="#FEFECE" filter="url(#foijk08lrfj3j)" height="180.8203" id="e08" style="stroke:#A80036;stroke-width:1.5;" width="118" x="848.5" y="7"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="34" x="890.5" y="23.1387">Chem</text><line style="stroke:#A80036;stroke-width:1.5;" x1="849.5" x2="965.5" y1="30.9688" y2="30.9688"/><ellipse cx="859.5" cy="41.9688" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="36" x="868.5" y="45.1792">OUTID</text><ellipse cx="859.5" cy="54.7734" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="57" x="868.5" y="57.9839">chemTest</text><line style="stroke:#A80036;stroke-width:1.0;" x1="849.5" x2="965.5" y1="64.5781" y2="64.5781"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="59" x="854.5" y="78.7886">chemLang</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="93" x="854.5" y="91.5933">chemTestStatus</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="74" x="854.5" y="104.3979">chemBall100</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="67" x="854.5" y="117.2026">chemBall12</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="53" x="854.5" y="130.0073">chemBall</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="79" x="854.5" y="142.812">chemPTName</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="101" x="854.5" y="155.6167">chemPTRegName</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="106" x="854.5" y="168.4214">chemPTAreaName</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="98" x="854.5" y="181.2261">chemPTTerName</text><!--MD5=[a56f0dd6dc6859cfc8cf3ffe4723c349]
+class e09--><rect codeLine="115" fill="#FEFECE" filter="url(#foijk08lrfj3j)" height="180.8203" id="e09" style="stroke:#A80036;stroke-width:1.5;" width="103" x="1002" y="7"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="19" x="1044" y="23.1387">Bio</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1003" x2="1104" y1="30.9688" y2="30.9688"/><ellipse cx="1013" cy="41.9688" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="36" x="1022" y="45.1792">OUTID</text><ellipse cx="1013" cy="54.7734" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="42" x="1022" y="57.9839">bioTest</text><line style="stroke:#A80036;stroke-width:1.0;" x1="1003" x2="1104" y1="64.5781" y2="64.5781"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="44" x="1008" y="78.7886">bioLang</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="78" x="1008" y="91.5933">bioTestStatus</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="59" x="1008" y="104.3979">bioBall100</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="52" x="1008" y="117.2026">bioBall12</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="38" x="1008" y="130.0073">bioBall</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="64" x="1008" y="142.812">bioPTName</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="86" x="1008" y="155.6167">bioPTRegName</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="91" x="1008" y="168.4214">bioPTAreaName</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="83" x="1008" y="181.2261">bioPTTerName</text><!--MD5=[c3f354cd81b5f017e1bca9ef4ca24921]
+class e10--><rect codeLine="130" fill="#FEFECE" filter="url(#foijk08lrfj3j)" height="180.8203" id="e10" style="stroke:#A80036;stroke-width:1.5;" width="108" x="1140.5" y="7"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="25" x="1182" y="23.1387">Geo</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1141.5" x2="1247.5" y1="30.9688" y2="30.9688"/><ellipse cx="1151.5" cy="41.9688" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="36" x="1160.5" y="45.1792">OUTID</text><ellipse cx="1151.5" cy="54.7734" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="47" x="1160.5" y="57.9839">geoTest</text><line style="stroke:#A80036;stroke-width:1.0;" x1="1141.5" x2="1247.5" y1="64.5781" y2="64.5781"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="49" x="1146.5" y="78.7886">geoLang</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="83" x="1146.5" y="91.5933">geoTestStatus</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="64" x="1146.5" y="104.3979">geoBall100</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="57" x="1146.5" y="117.2026">geoBall12</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="43" x="1146.5" y="130.0073">geoBall</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="69" x="1146.5" y="142.812">geoPTName</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="91" x="1146.5" y="155.6167">geoPTRegName</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="96" x="1146.5" y="168.4214">geoPTAreaName</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="88" x="1146.5" y="181.2261">geoPTTerName</text><!--MD5=[170b1fabf85c84db8e3f399403779da6]
+class e11--><rect codeLine="145" fill="#FEFECE" filter="url(#foijk08lrfj3j)" height="180.8203" id="e11" style="stroke:#A80036;stroke-width:1.5;" width="108" x="1283.5" y="7"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="22" x="1326.5" y="23.1387">Eng</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1284.5" x2="1390.5" y1="30.9688" y2="30.9688"/><ellipse cx="1294.5" cy="41.9688" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="36" x="1303.5" y="45.1792">OUTID</text><ellipse cx="1294.5" cy="54.7734" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="47" x="1303.5" y="57.9839">engTest</text><line style="stroke:#A80036;stroke-width:1.0;" x1="1284.5" x2="1390.5" y1="64.5781" y2="64.5781"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="83" x="1289.5" y="78.7886">engTestStatus</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="64" x="1289.5" y="91.5933">engBall100</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="57" x="1289.5" y="104.3979">engBall12</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="77" x="1289.5" y="117.2026">engDPALevel</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="43" x="1289.5" y="130.0073">engBall</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="69" x="1289.5" y="142.812">engPTName</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="91" x="1289.5" y="155.6167">engPTRegName</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="96" x="1289.5" y="168.4214">engPTAreaName</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="88" x="1289.5" y="181.2261">engPTTerName</text><!--MD5=[594eb307fcbf254877040be2173f3e58]
+class e12--><rect codeLine="160" fill="#FEFECE" filter="url(#foijk08lrfj3j)" height="180.8203" id="e12" style="stroke:#A80036;stroke-width:1.5;" width="101" x="1427" y="7"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="19" x="1468" y="23.1387">Fra</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1428" x2="1527" y1="30.9688" y2="30.9688"/><ellipse cx="1438" cy="41.9688" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="36" x="1447" y="45.1792">OUTID</text><ellipse cx="1438" cy="54.7734" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="40" x="1447" y="57.9839">fraTest</text><line style="stroke:#A80036;stroke-width:1.0;" x1="1428" x2="1527" y1="64.5781" y2="64.5781"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="76" x="1433" y="78.7886">fraTestStatus</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="57" x="1433" y="91.5933">fraBall100</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="50" x="1433" y="104.3979">fraBall12</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="70" x="1433" y="117.2026">fraDPALevel</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="36" x="1433" y="130.0073">fraBall</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="62" x="1433" y="142.812">fraPTName</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="84" x="1433" y="155.6167">fraPTRegName</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="89" x="1433" y="168.4214">fraPTAreaName</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="81" x="1433" y="181.2261">fraPTTerName</text><!--MD5=[92f3887fffb4d8db0f3b292fb49471c9]
+class e13--><rect codeLine="175" fill="#FEFECE" filter="url(#foijk08lrfj3j)" height="180.8203" id="e13" style="stroke:#A80036;stroke-width:1.5;" width="108" x="1563.5" y="7"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="24" x="1605.5" y="23.1387">Deu</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1564.5" x2="1670.5" y1="30.9688" y2="30.9688"/><ellipse cx="1574.5" cy="41.9688" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="36" x="1583.5" y="45.1792">OUTID</text><ellipse cx="1574.5" cy="54.7734" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="47" x="1583.5" y="57.9839">deuTest</text><line style="stroke:#A80036;stroke-width:1.0;" x1="1564.5" x2="1670.5" y1="64.5781" y2="64.5781"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="83" x="1569.5" y="78.7886">deuTestStatus</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="64" x="1569.5" y="91.5933">deuBall100</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="57" x="1569.5" y="104.3979">deuBall12</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="77" x="1569.5" y="117.2026">deuDPALevel</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="43" x="1569.5" y="130.0073">deuBall</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="69" x="1569.5" y="142.812">deuPTName</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="91" x="1569.5" y="155.6167">deuPTRegName</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="96" x="1569.5" y="168.4214">deuPTAreaName</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="88" x="1569.5" y="181.2261">deuPTTerName</text><!--MD5=[9d43f34a0560cecf9c5ad0fefa9b1337]
+class e14--><rect codeLine="190" fill="#FEFECE" filter="url(#foijk08lrfj3j)" height="180.8203" id="e14" style="stroke:#A80036;stroke-width:1.5;" width="106" x="1706.5" y="7"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="23" x="1748" y="23.1387">Spa</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1707.5" x2="1811.5" y1="30.9688" y2="30.9688"/><ellipse cx="1717.5" cy="41.9688" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="36" x="1726.5" y="45.1792">OUTID</text><ellipse cx="1717.5" cy="54.7734" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="45" x="1726.5" y="57.9839">spaTest</text><line style="stroke:#A80036;stroke-width:1.0;" x1="1707.5" x2="1811.5" y1="64.5781" y2="64.5781"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="81" x="1712.5" y="78.7886">spaTestStatus</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="62" x="1712.5" y="91.5933">spaBall100</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="55" x="1712.5" y="104.3979">spaBall12</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="75" x="1712.5" y="117.2026">spaDPALevel</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="41" x="1712.5" y="130.0073">spaBall</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="67" x="1712.5" y="142.812">spaPTName</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="89" x="1712.5" y="155.6167">spaPTRegName</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="94" x="1712.5" y="168.4214">spaPTAreaName</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="86" x="1712.5" y="181.2261">spaPTTerName</text><!--MD5=[7d30614cb0fbe2da81966bdecb17f8b2]
+link e02 to e01--><path codeLine="205" d="M58.5,157.829 C58.5,157.829 58.5,381 58.5,381 C58.5,381 844.775,381 844.775,381 " fill="none" id="e02-e01" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="844.775" x2="852.775" y1="381" y2="375"/><line style="stroke:#A80036;stroke-width:1.0;" x1="844.775" x2="852.775" y1="381" y2="387"/><line style="stroke:#A80036;stroke-width:1.0;" x1="844.775" x2="852.775" y1="381" y2="381"/><ellipse cx="838.775" cy="381" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;fill:none;"/><line style="stroke:#A80036;stroke-width:1.0;fill:none;" x1="54.5" x2="62.5" y1="153.829" y2="153.829"/><line style="stroke:#A80036;stroke-width:1.0;fill:none;" x1="54.5" x2="62.5" y1="156.829" y2="156.829"/><line style="stroke:#A80036;stroke-width:1.0;fill:none;" x1="58.5" x2="58.5" y1="157.829" y2="149.829"/><!--MD5=[aaa07cf7073daf64ffeb2b4ba50194a5]
+link e03 to e01--><path codeLine="206" d="M189.5,170.813 C189.5,170.813 189.5,359 189.5,359 C189.5,359 844.944,359 844.944,359 " fill="none" id="e03-e01" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="844.944" x2="852.944" y1="359" y2="353"/><line style="stroke:#A80036;stroke-width:1.0;" x1="844.944" x2="852.944" y1="359" y2="365"/><line style="stroke:#A80036;stroke-width:1.0;" x1="844.944" x2="852.944" y1="359" y2="359"/><ellipse cx="838.944" cy="359" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;fill:none;"/><line style="stroke:#A80036;stroke-width:1.0;fill:none;" x1="185.5" x2="193.5" y1="166.813" y2="166.813"/><line style="stroke:#A80036;stroke-width:1.0;fill:none;" x1="185.5" x2="193.5" y1="169.813" y2="169.813"/><line style="stroke:#A80036;stroke-width:1.0;fill:none;" x1="189.5" x2="189.5" y1="170.813" y2="162.813"/><!--MD5=[7386258e883ade82d7090389a83f9d7c]
+link e04 to e01--><path codeLine="207" d="M321.5,195.045 C321.5,195.045 321.5,337 321.5,337 C321.5,337 845.897,337 845.897,337 " fill="none" id="e04-e01" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="848.897" x2="848.897" y1="333" y2="341"/><line style="stroke:#A80036;stroke-width:1.0;" x1="845.897" x2="845.897" y1="333" y2="341"/><line style="stroke:#A80036;stroke-width:1.0;" x1="844.897" x2="852.897" y1="337" y2="337"/><line style="stroke:#A80036;stroke-width:1.0;" x1="317.5" x2="325.5" y1="192.045" y2="192.045"/><line style="stroke:#A80036;stroke-width:1.0;" x1="317.5" x2="325.5" y1="195.045" y2="195.045"/><line style="stroke:#A80036;stroke-width:1.0;" x1="321.5" x2="321.5" y1="196.045" y2="188.045"/><!--MD5=[d4333fcf6bb38f8cc6fb660993f0813d]
+link e05 to e01--><path codeLine="208" d="M461.5,196.165 C461.5,196.165 461.5,315 461.5,315 C461.5,315 844.812,315 844.812,315 " fill="none" id="e05-e01" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="848.812" x2="848.812" y1="311" y2="319"/><line style="stroke:#A80036;stroke-width:1.0;" x1="845.812" x2="845.812" y1="311" y2="319"/><line style="stroke:#A80036;stroke-width:1.0;" x1="844.812" x2="852.812" y1="315" y2="315"/><line style="stroke:#A80036;stroke-width:1.0;" x1="461.5" x2="461.5" y1="199.165" y2="188.165"/><ellipse cx="461.5" cy="199.165" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;fill:none;"/><line style="stroke:#A80036;stroke-width:1.0;fill:none;" x1="457.5" x2="465.5" y1="192.165" y2="192.165"/><!--MD5=[f9f50e2cc0a630ed3c853e25b996f1ff]
+link e06 to e01--><path codeLine="209" d="M607.5,196.096 C607.5,196.096 607.5,293 607.5,293 C607.5,293 844.824,293 844.824,293 " fill="none" id="e06-e01" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="848.824" x2="848.824" y1="289" y2="297"/><line style="stroke:#A80036;stroke-width:1.0;" x1="845.824" x2="845.824" y1="289" y2="297"/><line style="stroke:#A80036;stroke-width:1.0;" x1="844.824" x2="852.824" y1="293" y2="293"/><line style="stroke:#A80036;stroke-width:1.0;" x1="607.5" x2="607.5" y1="199.096" y2="188.096"/><ellipse cx="607.5" cy="199.096" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;fill:none;"/><line style="stroke:#A80036;stroke-width:1.0;fill:none;" x1="603.5" x2="611.5" y1="192.096" y2="192.096"/><!--MD5=[dc567f80b0e40d3bc55ada0d5f53b173]
+link e07 to e01--><path codeLine="210" d="M756.5,196.061 C756.5,196.061 756.5,271 756.5,271 C756.5,271 844.986,271 844.986,271 " fill="none" id="e07-e01" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="848.986" x2="848.986" y1="267" y2="275"/><line style="stroke:#A80036;stroke-width:1.0;" x1="845.986" x2="845.986" y1="267" y2="275"/><line style="stroke:#A80036;stroke-width:1.0;" x1="844.986" x2="852.986" y1="271" y2="271"/><line style="stroke:#A80036;stroke-width:1.0;" x1="756.5" x2="756.5" y1="199.061" y2="188.061"/><ellipse cx="756.5" cy="199.061" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;fill:none;"/><line style="stroke:#A80036;stroke-width:1.0;fill:none;" x1="752.5" x2="760.5" y1="192.061" y2="192.061"/><!--MD5=[657f0272b5489558efb4a522ec515a6d]
+link e08 to e01--><path codeLine="211" d="M907.5,196.267 C907.5,196.267 907.5,239.908 907.5,239.908 " fill="none" id="e08-e01" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="911.5" x2="903.5" y1="243.908" y2="243.908"/><line style="stroke:#A80036;stroke-width:1.0;" x1="911.5" x2="903.5" y1="240.908" y2="240.908"/><line style="stroke:#A80036;stroke-width:1.0;" x1="907.5" x2="907.5" y1="239.908" y2="247.908"/><line style="stroke:#A80036;stroke-width:1.0;" x1="907.5" x2="907.5" y1="199.267" y2="188.267"/><ellipse cx="907.5" cy="199.267" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;fill:none;"/><line style="stroke:#A80036;stroke-width:1.0;fill:none;" x1="903.5" x2="911.5" y1="192.267" y2="192.267"/><!--MD5=[5a6e065a4c29bf46a5a6a94142da1130]
+link e09 to e01--><path codeLine="212" d="M1053.5,196.061 C1053.5,196.061 1053.5,271 1053.5,271 C1053.5,271 970.28,271 970.28,271 " fill="none" id="e09-e01" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="966.28" x2="966.28" y1="275" y2="267"/><line style="stroke:#A80036;stroke-width:1.0;" x1="969.28" x2="969.28" y1="275" y2="267"/><line style="stroke:#A80036;stroke-width:1.0;" x1="970.28" x2="962.28" y1="271" y2="271"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1053.5" x2="1053.5" y1="199.061" y2="188.061"/><ellipse cx="1053.5" cy="199.061" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;fill:none;"/><line style="stroke:#A80036;stroke-width:1.0;fill:none;" x1="1049.5" x2="1057.5" y1="192.061" y2="192.061"/><!--MD5=[0f3ef06ffccdfcbc870241a522d9f734]
+link e10 to e01--><path codeLine="213" d="M1194.5,196.096 C1194.5,196.096 1194.5,293 1194.5,293 C1194.5,293 970.158,293 970.158,293 " fill="none" id="e10-e01" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="966.158" x2="966.158" y1="297" y2="289"/><line style="stroke:#A80036;stroke-width:1.0;" x1="969.158" x2="969.158" y1="297" y2="289"/><line style="stroke:#A80036;stroke-width:1.0;" x1="970.158" x2="962.158" y1="293" y2="293"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1194.5" x2="1194.5" y1="199.096" y2="188.096"/><ellipse cx="1194.5" cy="199.096" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;fill:none;"/><line style="stroke:#A80036;stroke-width:1.0;fill:none;" x1="1190.5" x2="1198.5" y1="192.096" y2="192.096"/><!--MD5=[c84c95e6f186016ab9ee26e9ff5cfe45]
+link e11 to e01--><path codeLine="214" d="M1337.5,196.165 C1337.5,196.165 1337.5,315 1337.5,315 C1337.5,315 970.397,315 970.397,315 " fill="none" id="e11-e01" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="966.397" x2="966.397" y1="319" y2="311"/><line style="stroke:#A80036;stroke-width:1.0;" x1="969.397" x2="969.397" y1="319" y2="311"/><line style="stroke:#A80036;stroke-width:1.0;" x1="970.397" x2="962.397" y1="315" y2="315"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1337.5" x2="1337.5" y1="199.165" y2="188.165"/><ellipse cx="1337.5" cy="199.165" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;fill:none;"/><line style="stroke:#A80036;stroke-width:1.0;fill:none;" x1="1333.5" x2="1341.5" y1="192.165" y2="192.165"/><!--MD5=[88045e46e614e3b50174a9c258a1b65b]
+link e12 to e01--><path codeLine="215" d="M1477.5,196.045 C1477.5,196.045 1477.5,337 1477.5,337 C1477.5,337 970.154,337 970.154,337 " fill="none" id="e12-e01" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="966.154" x2="966.154" y1="341" y2="333"/><line style="stroke:#A80036;stroke-width:1.0;" x1="969.154" x2="969.154" y1="341" y2="333"/><line style="stroke:#A80036;stroke-width:1.0;" x1="970.154" x2="962.154" y1="337" y2="337"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1477.5" x2="1477.5" y1="199.045" y2="188.045"/><ellipse cx="1477.5" cy="199.045" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;fill:none;"/><line style="stroke:#A80036;stroke-width:1.0;fill:none;" x1="1473.5" x2="1481.5" y1="192.045" y2="192.045"/><!--MD5=[edec19c4dac67fce5c42afc388040e8a]
+link e13 to e01--><path codeLine="216" d="M1617.5,196.226 C1617.5,196.226 1617.5,359 1617.5,359 C1617.5,359 970.034,359 970.034,359 " fill="none" id="e13-e01" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="966.034" x2="966.034" y1="363" y2="355"/><line style="stroke:#A80036;stroke-width:1.0;" x1="969.034" x2="969.034" y1="363" y2="355"/><line style="stroke:#A80036;stroke-width:1.0;" x1="970.034" x2="962.034" y1="359" y2="359"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1617.5" x2="1617.5" y1="199.226" y2="188.226"/><ellipse cx="1617.5" cy="199.226" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;fill:none;"/><line style="stroke:#A80036;stroke-width:1.0;fill:none;" x1="1613.5" x2="1621.5" y1="192.226" y2="192.226"/><!--MD5=[f136a6413903c499aedbb9006df0130f]
+link e14 to e01--><path codeLine="217" d="M1759.5,196.371 C1759.5,196.371 1759.5,381 1759.5,381 C1759.5,381 970.093,381 970.093,381 " fill="none" id="e14-e01" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="966.093" x2="966.093" y1="385" y2="377"/><line style="stroke:#A80036;stroke-width:1.0;" x1="969.093" x2="969.093" y1="385" y2="377"/><line style="stroke:#A80036;stroke-width:1.0;" x1="970.093" x2="962.093" y1="381" y2="381"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1759.5" x2="1759.5" y1="199.371" y2="188.371"/><ellipse cx="1759.5" cy="199.371" rx="4" ry="4" style="stroke:#A80036;stroke-width:1.0;fill:none;"/><line style="stroke:#A80036;stroke-width:1.0;fill:none;" x1="1755.5" x2="1763.5" y1="192.371" y2="192.371"/><!--MD5=[e0cc54436219f2d93723cdbd0f741ffb]
+@startuml
+' hide the spot
+hide circle
+
+' avoid problems with angled crows feet
+skinparam linetype ortho
+
+entity "Person" as e01 {
+  *OUTID 
+ - -
+  Birth
+  SEXTYPENAME
+  Year
+  Region_index
+  REGTYPENAME
+  ClassProfileNAME
+  ClassLangName
+  EO_index 
+}
+
+entity "Region" as e02 {
+  *Region_index 
+  - -
+  REGNAME
+  AREANAME
+  TERNAME
+  TerTypeName
+}
+
+entity "EO" as e03 {
+  *EO_index 
+  - -
+  EONAME
+  EOTYPENAME
+  EORegName
+  EOAreaName
+  EOTerName
+  EOParent
+}
+
+entity "Ukr" as e04 {
+  *OUTID
+  *UkrTest 
+  - -
+  UkrTestStatus
+  UkrBall100
+  UkrBall12
+  UkrBall
+  UkrAdaptScale
+  UkrPTName
+  UkrPTRegName
+  UkrPTAreaName
+  UkrPTTerName
+}
+
+entity "Hist" as e05 {
+  *OUTID
+  *histTest 
+  - -
+  HistLang
+  histTestStatus
+  histBall100
+  histBall12
+  histBall
+  histPTName
+  histPTRegName
+  histPTAreaName
+  histPTTerName
+}
+
+entity "Math" as e06 {
+  *OUTID
+  *mathTest 
+  - -
+  mathLang
+  mathTestStatus
+  mathBall100
+  mathBall12
+  mathBall
+  mathPTName
+  mathPTRegName
+  mathPTAreaName
+  mathPTTerName
+}
+
+entity "Phys" as e07 {
+  *OUTID
+  *physTest 
+  - -
+  physLang
+  physTestStatus
+  physBall100
+  physBall12
+  physBall
+  physPTName
+  physPTRegName
+  physPTAreaName
+  physPTTerName
+}
+
+entity "Chem" as e08 {
+  *OUTID
+  *chemTest 
+  - -
+  chemLang
+  chemTestStatus
+  chemBall100
+  chemBall12
+  chemBall
+  chemPTName
+  chemPTRegName
+  chemPTAreaName
+  chemPTTerName
+}
+
+entity "Bio" as e09 {
+  *OUTID
+  *bioTest 
+  - -
+  bioLang
+  bioTestStatus
+  bioBall100
+  bioBall12
+  bioBall
+  bioPTName
+  bioPTRegName
+  bioPTAreaName
+  bioPTTerName
+}
+
+entity "Geo" as e10 {
+  *OUTID
+  *geoTest 
+  - -
+  geoLang
+  geoTestStatus
+  geoBall100
+  geoBall12
+  geoBall
+  geoPTName
+  geoPTRegName
+  geoPTAreaName
+  geoPTTerName
+}
+
+entity "Eng" as e11 {
+  *OUTID
+  *engTest 
+  - -
+  engTestStatus
+  engBall100
+  engBall12
+  engDPALevel
+  engBall
+  engPTName
+  engPTRegName
+  engPTAreaName
+  engPTTerName
+}
+
+entity "Fra" as e12 {
+  *OUTID
+  *fraTest 
+  - -
+  fraTestStatus
+  fraBall100
+  fraBall12
+  fraDPALevel
+  fraBall
+  fraPTName
+  fraPTRegName
+  fraPTAreaName
+  fraPTTerName
+}
+
+entity "Deu" as e13 {
+  *OUTID
+  *deuTest 
+  - -
+  deuTestStatus
+  deuBall100
+  deuBall12
+  deuDPALevel
+  deuBall
+  deuPTName
+  deuPTRegName
+  deuPTAreaName
+  deuPTTerName
+}
+
+entity "Spa" as e14 {
+  *OUTID
+  *spaTest 
+  - -
+  spaTestStatus
+  spaBall100
+  spaBall12
+  spaDPALevel
+  spaBall
+  spaPTName
+  spaPTRegName
+  spaPTAreaName
+  spaPTTerName
+}
+
+e02 ||..o{ e01
+e03 ||..o{ e01
+e04 ||..|| e01
+e05 |o..|| e01
+e06 |o..|| e01
+e07 |o..|| e01
+e08 |o..|| e01
+e09 |o..|| e01
+e10 |o..|| e01
+e11 |o..|| e01
+e12 |o..|| e01
+e13 |o..|| e01
+e14 |o..|| e01
+@enduml
+
+@startuml
+hide circle
+
+skinparam linetype ortho
+
+entity "Person" as e01 {
+  *OUTID 
+ - -
+  Birth
+  SEXTYPENAME
+  Year
+  Region_index
+  REGTYPENAME
+  ClassProfileNAME
+  ClassLangName
+  EO_index 
+}
+
+entity "Region" as e02 {
+  *Region_index 
+  - -
+  REGNAME
+  AREANAME
+  TERNAME
+  TerTypeName
+}
+
+entity "EO" as e03 {
+  *EO_index 
+  - -
+  EONAME
+  EOTYPENAME
+  EORegName
+  EOAreaName
+  EOTerName
+  EOParent
+}
+
+entity "Ukr" as e04 {
+  *OUTID
+  *UkrTest 
+  - -
+  UkrTestStatus
+  UkrBall100
+  UkrBall12
+  UkrBall
+  UkrAdaptScale
+  UkrPTName
+  UkrPTRegName
+  UkrPTAreaName
+  UkrPTTerName
+}
+
+entity "Hist" as e05 {
+  *OUTID
+  *histTest 
+  - -
+  HistLang
+  histTestStatus
+  histBall100
+  histBall12
+  histBall
+  histPTName
+  histPTRegName
+  histPTAreaName
+  histPTTerName
+}
+
+entity "Math" as e06 {
+  *OUTID
+  *mathTest 
+  - -
+  mathLang
+  mathTestStatus
+  mathBall100
+  mathBall12
+  mathBall
+  mathPTName
+  mathPTRegName
+  mathPTAreaName
+  mathPTTerName
+}
+
+entity "Phys" as e07 {
+  *OUTID
+  *physTest 
+  - -
+  physLang
+  physTestStatus
+  physBall100
+  physBall12
+  physBall
+  physPTName
+  physPTRegName
+  physPTAreaName
+  physPTTerName
+}
+
+entity "Chem" as e08 {
+  *OUTID
+  *chemTest 
+  - -
+  chemLang
+  chemTestStatus
+  chemBall100
+  chemBall12
+  chemBall
+  chemPTName
+  chemPTRegName
+  chemPTAreaName
+  chemPTTerName
+}
+
+entity "Bio" as e09 {
+  *OUTID
+  *bioTest 
+  - -
+  bioLang
+  bioTestStatus
+  bioBall100
+  bioBall12
+  bioBall
+  bioPTName
+  bioPTRegName
+  bioPTAreaName
+  bioPTTerName
+}
+
+entity "Geo" as e10 {
+  *OUTID
+  *geoTest 
+  - -
+  geoLang
+  geoTestStatus
+  geoBall100
+  geoBall12
+  geoBall
+  geoPTName
+  geoPTRegName
+  geoPTAreaName
+  geoPTTerName
+}
+
+entity "Eng" as e11 {
+  *OUTID
+  *engTest 
+  - -
+  engTestStatus
+  engBall100
+  engBall12
+  engDPALevel
+  engBall
+  engPTName
+  engPTRegName
+  engPTAreaName
+  engPTTerName
+}
+
+entity "Fra" as e12 {
+  *OUTID
+  *fraTest 
+  - -
+  fraTestStatus
+  fraBall100
+  fraBall12
+  fraDPALevel
+  fraBall
+  fraPTName
+  fraPTRegName
+  fraPTAreaName
+  fraPTTerName
+}
+
+entity "Deu" as e13 {
+  *OUTID
+  *deuTest 
+  - -
+  deuTestStatus
+  deuBall100
+  deuBall12
+  deuDPALevel
+  deuBall
+  deuPTName
+  deuPTRegName
+  deuPTAreaName
+  deuPTTerName
+}
+
+entity "Spa" as e14 {
+  *OUTID
+  *spaTest 
+  - -
+  spaTestStatus
+  spaBall100
+  spaBall12
+  spaDPALevel
+  spaBall
+  spaPTName
+  spaPTRegName
+  spaPTAreaName
+  spaPTTerName
+}
+
+e02 ||..o{ e01
+e03 ||..o{ e01
+e04 ||..|| e01
+e05 |o..|| e01
+e06 |o..|| e01
+e07 |o..|| e01
+e08 |o..|| e01
+e09 |o..|| e01
+e10 |o..|| e01
+e11 |o..|| e01
+e12 |o..|| e01
+e13 |o..|| e01
+e14 |o..|| e01
+@enduml
+
+PlantUML version 1.2021.4(Sun Apr 04 08:49:39 UTC 2021)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
